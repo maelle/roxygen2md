@@ -1,5 +1,8 @@
 url: https://roxygen2md.r-lib.org
 
+template:
+  bootstrap: 5
+
 reference:
 - title: Interactive functions
   contents:
